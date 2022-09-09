@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DoctorWho", "DoctorWho\DoctorWho.sqlproj", "{B0F60295-EC44-424E-929B-5C9F3A901842}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DoctorWhoDB", "DoctorWhoDB", "{5449C684-D4FF-4775-8F4F-DB994C4E1313}"
+	ProjectSection(SolutionItems) = preProject
+		Req2.sql = Req2.sql
+		Req3.sql = Req3.sql
+		Req4.sql = Req4.sql
+		Req5.sql = Req5.sql
+		Req6.sql = Req6.sql
+		Req9.sql = Req9.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F60295-EC44-424E-929B-5C9F3A901842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F60295-EC44-424E-929B-5C9F3A901842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F60295-EC44-424E-929B-5C9F3A901842}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B0F60295-EC44-424E-929B-5C9F3A901842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F60295-EC44-424E-929B-5C9F3A901842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F60295-EC44-424E-929B-5C9F3A901842}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD29E7B-5816-4B1A-BD83-FDE4630663A5}
+	EndGlobalSection
+EndGlobal
